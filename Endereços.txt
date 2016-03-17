@@ -1,0 +1,23 @@
+Gamas de endereços:
+
+Sede/Coimbra: 			10.0.0.136/30
+Sede/Lisboa: 			10.0.0.140/30
+Sede/RouterAcesso:		10.0.0.144/30
+Sede/PcLocal:			10.0.0.0/30
+Sede/LanServPriv: 		192.168.0.0/29
+Sede/LanServPubl:		10.0.0.152/29
+Sede/LanVisits:			10.0.0.192/28
+Sede/LanServAdm:		10.0.0.160/29
+
+Lisboa/LanVisits:		10.0.0.208/28
+Lisboa/LanServAdm:		10.0.0.168/29
+Lisboa/Porto:			10.0.0.128/30
+
+Porto/LanVisits:		10.0.0.224/28
+Porto/LanServAdm:		10.0.0.176/29
+Porto/Coimbra:			10.0.0.132/30
+
+Coimbra/LanVisits:		10.0.0.240/28
+Coimbra/LanServAdm:		10.0.0.184/29
+
+RouterAcesso/MainServer:10.0.0.148/30
