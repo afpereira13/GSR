@@ -1,0 +1,5 @@
+ip addr add dev eth4 192.168.0.1/29
+ip link set eth4 up
+
+ip addr add dev eth5 10.0.0.153/29
+ip link set eth5 up
