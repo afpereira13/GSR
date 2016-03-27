@@ -3,3 +3,6 @@ ip link set eth4 up
 
 ip addr add dev eth5 10.0.0.153/29
 ip link set eth5 up
+
+ip addr add dev eth6 10.0.0.193/28
+ip link set eth6 up

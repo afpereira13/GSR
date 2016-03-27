@@ -1,0 +1,2 @@
+ip addr add dev eth0 10.0.0.194/28
+ip link set eth0 up
