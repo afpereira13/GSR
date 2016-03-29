@@ -1,4 +1,1 @@
-ip addr add dev eth0 10.0.0.195/28
-ip link set eth0 up
-
-ip route add default via 10.0.0.193
+/etc/init.d/networking restart
