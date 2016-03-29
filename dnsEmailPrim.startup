@@ -1,4 +1,4 @@
-ip addr add dev eth0 10.0.0.154/29
+ip addr add dev eth0 10.0.0.146/29
 ip link set eth0 up
 
-ip route add default via 10.0.0.153
+ip route add default via 10.0.0.145
