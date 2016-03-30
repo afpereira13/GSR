@@ -12,8 +12,8 @@ RouterSede[6]=HUB1
 RouterSede[7]=tap,192.168.1.2,192.168.1.1
 RouterSede[mem]=48
 
-RouterLisboa[0]="C"
-RouterLisboa[1]="L"
+RouterLisboa[0]="L"
+RouterLisboa[1]="C"
 RouterLisboa[2]="O"
 RouterLisboa[3]=HUB2
 
