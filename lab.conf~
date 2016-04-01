@@ -27,8 +27,8 @@ RouterCoimbra[1]="I"
 RouterCoimbra[2]="J"
 RouterCoimbra[3]=HUB4
 
-RouterAcesso[0]="A"
-RouterAcesso[1]="Q"
+RouterAcesso[0]="Q"
+RouterAcesso[1]="A"
 
 Switch1[0]="D"
 Switch1[1]="R"

@@ -1,0 +1,4 @@
+ip addr add dev eth0 192.168.1.2/30
+ip link set eth0 up
+
+/etc/init.d/networking restart

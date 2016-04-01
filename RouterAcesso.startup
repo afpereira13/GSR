@@ -1,0 +1,5 @@
+ip addr add dev eth0 10.0.0.2/30
+ip link set eth0 up
+
+ip addr add dev eth1 10.0.0.5/30
+ip link set eth1 up

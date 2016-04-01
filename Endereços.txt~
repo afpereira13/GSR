@@ -1,7 +1,7 @@
 Gamas de endereços:
 
 Sede/RouterAcesso:		10.0.0.0/30
-RouterAcesso/MainServer:    	10.0.0.4/30
+RouterAcesso/MainServer:    10.0.0.4/30
 Lisboa/Porto:			10.0.0.128/30
 Porto/Coimbra:			10.0.0.132/30
 Sede/Coimbra: 			10.0.0.136/30
