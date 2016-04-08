@@ -1,6 +1,10 @@
 PCVisitSede1 PCVisitSede2 : RouterSede
 PCRH PCAdmin PCCont : RouterSede Switch1
 
+ServerFich ServerManut : Switch2
+
+dnsEmailPrim dnsHTTPSec : Switch3
+
 PCVisitLisboa1 PCVisitLisboa2 : RouterLisboa
 PCLisboaP PCLisboaR : RouterLisboa Switch4
 
@@ -9,4 +13,6 @@ PCPortoP PCPortoR : RouterPorto Switch5
 
 PCVisitCoimbra1 PCVisitCoimbra2 : RouterCoimbra
 PCCoimbraP PCCoimbraR : RouterCoimbra Switch6
+
+
 
