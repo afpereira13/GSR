@@ -12,3 +12,4 @@ chmod go-rw /etc/exim4/exim4.conf
 
 #snmp
 /etc/init.d/snmpd start
+

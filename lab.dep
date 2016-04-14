@@ -14,5 +14,7 @@ PCPortoP PCPortoR : RouterPorto Switch5
 PCVisitCoimbra1 PCVisitCoimbra2 : RouterCoimbra
 PCCoimbraP PCCoimbraR : RouterCoimbra Switch6
 
+MainServer : RouterAcesso RouterSede
+
 
 
